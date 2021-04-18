@@ -490,7 +490,8 @@ p{
 .footer-flex ul{
     display: flex;
     justify-content: space-between;
-    max-width: 400px;
+    max-width: 700px;
+    flex: 0 0 700px;
     font-size: 1.2rem;
     
 }
